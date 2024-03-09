@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **React JS, SQLite, PostgreSQL, Express, Node JS**
 
+- 💻 I love tech and gaming
+
 - ⚡ Fun fact **I like playing football but not watching it :D**
 
 <h3 align="left">Connect with me:</h3>
